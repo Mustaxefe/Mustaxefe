@@ -1,4 +1,4 @@
 Hi, I'm Musta
-Studying to become a Back End developer.
+Studying to become a developer.
 
 
